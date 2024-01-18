@@ -1,0 +1,80 @@
+[
+  {
+    "id": "123",
+    "title": "XML in a Nutshell",
+    "authors": [
+      {
+        "surname": "Harold",
+        "forename": "Elliotte"
+      },
+      {
+        "surname": "Means",
+        "forename": "Scott"
+      }
+    ],
+    "edition": "3",
+    "year": "2004",
+    "ISBN": "978-0-596-00764-5"
+  },
+  {
+    "id": "456",
+    "title": "JSON at Work",
+    "authors": [
+      {
+        "surname": "Marrs",
+        "forename": "Tom"
+      }
+    ],
+    "edition": "1",
+    "year": "2017",
+    "ISBN": "978-1-4493-5832-7"
+  },
+    {
+    "id": "789",
+    "title": "Learning XML",
+    "authors": [
+      {
+        "surname": "Ray",
+        "forename": "Erik"
+      }
+    ],
+    "edition": "2",
+    "year": "2003",
+    "ISBN": "978-0-5960-0420-0"
+  },
+    {
+    "id": "012",
+    "title": "Beginning XML",
+    "authors": [
+      {
+        "surname": "Fawcett",
+        "forename": "Joe"
+      },
+	  {
+        "surname": "Ayers",
+        "forename": "Danny"
+      },
+	  {
+        "surname": "Quin",
+        "forename": "Liam"
+      }
+    ],
+    "edition": "5",
+    "year": "2012",
+    "ISBN": "978-1-1181-6213-2"
+  },
+    {
+    "id": "345",
+    "title": "Introduction to JavaScript Object Notation: A To-the-Point Guide to JSON",
+    "authors": [
+      {
+        "surname": "Bassett",
+        "forename": "Lindsay"
+      }
+    ],
+    "edition": "1",
+    "year": "2015",
+    "ISBN": "978-1-4919-2948-3"
+  }
+]
+

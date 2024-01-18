@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<library>
+	<book id="123">
+		<title>XML in a Nutshell</title>
+		<authors>
+			<author>
+				<surname>Harold</surname>
+				<forename>Elliotte</forename>
+			</author>
+			<author>
+				<surname>Means</surname>
+				<forename>Scott</forename>
+			</author>			
+		</authors>
+		<edition>3</edition>
+		<year>2004</year>
+		<ISBN>978-0-596-00764-5</ISBN>
+	</book>
+	<book id="456">
+		<title>JSON at Work</title>
+		<authors>
+			<author>
+				<surname>Marrs</surname>
+				<forename>Tom</forename>
+			</author>		
+		</authors>
+		<edition>1</edition>
+		<year>2017</year>
+		<ISBN>978-1-4493-5832-7</ISBN>
+	</book>
+	<book id="789">
+		<title>Learning XML</title>
+		<authors>
+			<author>
+				<surname>Ray</surname>
+				<forename>Erik</forename>
+			</author>		
+		</authors>
+		<edition>2</edition>
+		<year>2003</year>
+		<ISBN>978-0-5960-0420-0</ISBN>
+	</book>
+	<book id="012">
+		<title>Beginning XML</title>
+		<authors>
+			<author>
+				<surname>Fawcett</surname>
+				<forename>Joe</forename>
+			</author>		
+			<author>
+				<surname>Ayers</surname>
+				<forename>Danny</forename>
+			</author>
+			<author>
+				<surname>Quin</surname>
+				<forename>Liam</forename>
+			</author>			
+		</authors>
+		<edition>5</edition>
+		<year>2012</year>
+		<ISBN>978-1-1181-6213-2</ISBN>
+	</book>
+	<book id="345">
+		<title>Introduction to JavaScript Object Notation: A To-the-Point Guide to JSON</title>
+		<authors>
+			<author>
+				<surname>Bassett</surname>
+				<forename>Lindsay</forename>
+			</author>					
+		</authors>
+		<edition>1</edition>
+		<year>2015</year>
+		<ISBN>978-1-4919-2948-3</ISBN>
+	</book>	
+</library>
+
